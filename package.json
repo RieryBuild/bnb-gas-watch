@@ -1,0 +1,1 @@
+{"bin":{"bnb-gas-watch":"gas.cjs"},"description":"Check live BSC gas price and estimate transaction costs in BNB (and IDR) — zero dependencies","engines":{"node":">=18"},"keywords":["bsc","bnb","gas-tracker","gas-price","cli","web3"],"license":"MIT","main":"gas.cjs","name":"bnb-gas-watch","scripts":{"start":"node gas.cjs"},"version":"1.0.0"}
